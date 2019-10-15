@@ -22,7 +22,7 @@ public class Ahmad_karoke {
         Integer jam,bayar,pilihan,total,harga,kembali;
         Scanner keyboard = new Scanner(System.in);
         showMenu();
-        
+         
         System.out.println("Nama Mu : ");
         nama = keyboard.nextLine();
         System.out.println("Pilih Jenis Room (1/2/3/4) : ");
